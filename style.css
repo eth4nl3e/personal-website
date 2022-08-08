@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #4269f5;
+    padding: 25px;
+    color: white
+}
+
+.navLinks {
+    display: flex;
+    list-style: none;
+    margin: auto;
+    text-align: center;
+
+}
+
+.navLinks a {
+    color:white;
+    text-decoration: none;
+    padding: 10px  20px;
+    border-radius: 10px;
+}
+
+.navLinks a:hover {
+    background-color: #03c2fc;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+}
+
+h3 {
+    margin: auto;
+    text-align: center;
+}
+
+#main_body {
+    margin: auto;
+    text-align: center;
+}
+
+.happy {
+    display: block;
+    margin: auto;
+}
